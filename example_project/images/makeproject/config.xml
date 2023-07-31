@@ -34,13 +34,13 @@
         <daily_result_quota>500</daily_result_quota>
         <one_result_per_user_per_wu>0</one_result_per_user_per_wu>
         <max_wus_to_send>50</max_wus_to_send>
-	<debug_assignment/>
+<!--	<debug_assignment/>
         <debug_quota>
         <debug_request_details/>
         <debug_send/>
         <debug_send_job/>
         <debug_req_replay_dir>/home/boincadm/project/log_${project}</debug_req_replay_dir>
-
+-->
         <enable_assignment>1</enable_assignment>
         <enable_assignment_multi>1</enable_assignment_multi>
 
